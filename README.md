@@ -1,2 +1,2 @@
 # dotfiles
-syncing dotfiles of archlinux/bspwm configuration via nix
+syncing my own dotfiles of archlinux/bspwm configuration via nix
